@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **myself to develop my knowledge**
 
-- 🌱 I’m currently learning **React, Node.js, Typescript**
+- 🌱 I’m currently learning **React, Node, Typescript, Mongo, Express... the MERN stack!**
 
 - 📫 How to reach me **dvaldi7@gmail.com**
 
