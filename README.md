@@ -15,9 +15,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvaldi7&layout=donut&theme=github_dark"
-    alt="Top dvaldi7 languages"
-  />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dvaldi7&layout=donut&theme=github_dark)
