@@ -15,4 +15,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dvaldi7&layout=donut&theme=github_dark)
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=dvaldi7&layout=donut&theme=github_dark
